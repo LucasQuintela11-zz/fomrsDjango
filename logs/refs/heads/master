@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 7cacfa60f217c1221a85446b0a5eae4f5f958f62 LucasQuintela <lucasquintela.dev@gmail.com> 1628819677 -0300	commit (initial): iniciando o projeto
+7cacfa60f217c1221a85446b0a5eae4f5f958f62 724cad3cd49c0ec848f87a4880d1cd493a05bdeb LucasQuintela <lucasquintela.dev@gmail.com> 1628820435 -0300	commit: definido as views
+724cad3cd49c0ec848f87a4880d1cd493a05bdeb 33cd79dce8963351e5b53ab37c688cc126412ec9 LucasQuintela <lucasquintela.dev@gmail.com> 1628904924 -0300	commit: definido da urls
+33cd79dce8963351e5b53ab37c688cc126412ec9 e300ec94b9d288194bea950d1590a46ed9fe47ce LucasQuintela <lucasquintela.dev@gmail.com> 1628996502 -0300	commit: adionando o campo dos formulários
+e300ec94b9d288194bea950d1590a46ed9fe47ce 5c902d31f0802b2694ae08c1ea8f4ce9625f262d LucasQuintela <lucasquintela.dev@gmail.com> 1629050637 -0300	commit: adionando e envio de email
